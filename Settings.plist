@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DefaultValue</key>
+		<string>Transmission WebUI</string>
+		<key>Key</key>
+		<string>client</string>
+		<key>Title</key>
+		<string>Client</string>
+		<key>Titles</key>
+		<array>
+			<string>Transmission WebUI</string>
+		</array>
+		<key>Type</key>
+		<string>ListBox</string>
+		<key>Values</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>127.0.0.1</string>
+		<key>Key</key>
+		<string>host</string>
+		<key>Title</key>
+		<string>Host</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<real>9091</real>
+		<key>Key</key>
+		<string>port</string>
+		<key>Title</key>
+		<string>Port</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>username</string>
+		<key>Secure</key>
+		<true/>
+		<key>Title</key>
+		<string>Username</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>password</string>
+		<key>Password</key>
+		<true/>
+		<key>Secure</key>
+		<true/>
+		<key>Title</key>
+		<string>Password</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+</array>
+</plist>
