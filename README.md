@@ -4,4 +4,4 @@ This is a simple Safari extension, that allows you to remotely add a torrent to 
 
 You can find out more about the making of it [here](http://blog.jetboystudio.com/articles/safari-extension/)
 
-You can get a ready-for-install plugin [here](https://github.com/konsumer/torrentadder/releases/download/v1.0.0/Torrent.Adder.safariextz).
+You can get a ready-for-install plugin [here](https://github.com/konsumer/torrentadder/releases/download/v1.0.0/TorrentAdder.safariextz).
